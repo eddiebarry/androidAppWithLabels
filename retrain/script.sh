@@ -12,3 +12,5 @@ python -m scripts.retrain \
   --output_labels=tf_files/retrained_labels.txt \
   --architecture="${ARCHITECTURE}" \
   --image_dir=tf_files/data \
+
+ 
