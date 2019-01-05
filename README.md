@@ -3,7 +3,7 @@
 A tutorial to create an app that labels data according to a provided dataset
 
 
-##Dependencies :
+## Dependencies :
 *Android Studio
 *Tensorflow
 
