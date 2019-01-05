@@ -25,7 +25,7 @@ pip show tensorflow
 ```
 
 ## Train mobilenet on your own data
-### Note :  Sample data has been provided already
+##### Note :  Sample data has been provided already
 To train the model on your own dataset, 
 Create sub-folders in the data directory that only contain images from that category
 After the images have been placed, navigate to the "retrain" directory from the command line and
