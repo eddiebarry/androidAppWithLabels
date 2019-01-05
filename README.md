@@ -7,7 +7,8 @@ A tutorial to create an app that labels data according to a provided dataset
 * Tensorflow
 
 TO install Android Studio
-[Android Studio](http://github.com)
+[Android Studio](https://developer.android.com/studio/)
+
 
 To install Tensorflow :
 
