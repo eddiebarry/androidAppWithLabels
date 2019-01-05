@@ -35,4 +35,9 @@ chmod 700 script.sh
 ./script.sh
 ```
 
+##### Note :  To change the default android model change the arhitecture tag in the script.sh file. For more information refer to : [Tensorflow Tutorial](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..index#3)
+
+### Important : copy and paste the "retrained_graph.pb" & "retrained_labels.txt" files to the convert folder in the root directory.
+
+
 
