@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b714136571db3193e7e14b8a72e7f572/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5edd56ab28e7c627f608962651a61d64/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/6aba80162512ba3a90a1899aacd16078/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5cf7a10212f8fde1b7dffdea2118f072/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/ec59aef06f405a2b3283b349fecdc19d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5e59db804ada079f3a160448d647b23c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8c942378ea422c5b48af9d26aee1db47/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a0330b6a1afabf88db0c8bd3c2305590/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/b91561fee82e364b536bd6372d61e92a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ddba8c7c959f51a0e5b015a60a0bd4ce/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/da87aa0e2ce2ed28d1229e9b0fce1a34/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a61489ece9675c91a3345196e24d6dc3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/99fffcdc1b44c4fdad207a6a8d1cc3e5/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/000c24d7274c0dfd5f310bedb7050c34/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b714136571db3193e7e14b8a72e7f572/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b714136571db3193e7e14b8a72e7f572/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5edd56ab28e7c627f608962651a61d64/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5edd56ab28e7c627f608962651a61d64/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/6aba80162512ba3a90a1899aacd16078/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/6aba80162512ba3a90a1899aacd16078/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5cf7a10212f8fde1b7dffdea2118f072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5cf7a10212f8fde1b7dffdea2118f072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/ec59aef06f405a2b3283b349fecdc19d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/ec59aef06f405a2b3283b349fecdc19d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5e59db804ada079f3a160448d647b23c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5e59db804ada079f3a160448d647b23c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8c942378ea422c5b48af9d26aee1db47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8c942378ea422c5b48af9d26aee1db47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a0330b6a1afabf88db0c8bd3c2305590/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a0330b6a1afabf88db0c8bd3c2305590/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/b91561fee82e364b536bd6372d61e92a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/b91561fee82e364b536bd6372d61e92a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ddba8c7c959f51a0e5b015a60a0bd4ce/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ddba8c7c959f51a0e5b015a60a0bd4ce/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/da87aa0e2ce2ed28d1229e9b0fce1a34/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/da87aa0e2ce2ed28d1229e9b0fce1a34/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a61489ece9675c91a3345196e24d6dc3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a61489ece9675c91a3345196e24d6dc3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/99fffcdc1b44c4fdad207a6a8d1cc3e5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/99fffcdc1b44c4fdad207a6a8d1cc3e5/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/000c24d7274c0dfd5f310bedb7050c34/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/000c24d7274c0dfd5f310bedb7050c34/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/8f42b992286e5afab506bc193d3ea488/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b714136571db3193e7e14b8a72e7f572/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b714136571db3193e7e14b8a72e7f572/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5edd56ab28e7c627f608962651a61d64/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5edd56ab28e7c627f608962651a61d64/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/6aba80162512ba3a90a1899aacd16078/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/6aba80162512ba3a90a1899aacd16078/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5cf7a10212f8fde1b7dffdea2118f072/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5cf7a10212f8fde1b7dffdea2118f072/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/ec59aef06f405a2b3283b349fecdc19d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/ec59aef06f405a2b3283b349fecdc19d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8c942378ea422c5b48af9d26aee1db47/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/8c942378ea422c5b48af9d26aee1db47/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a0330b6a1afabf88db0c8bd3c2305590/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a0330b6a1afabf88db0c8bd3c2305590/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/b91561fee82e364b536bd6372d61e92a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/b91561fee82e364b536bd6372d61e92a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ddba8c7c959f51a0e5b015a60a0bd4ce/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ddba8c7c959f51a0e5b015a60a0bd4ce/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/da87aa0e2ce2ed28d1229e9b0fce1a34/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/da87aa0e2ce2ed28d1229e9b0fce1a34/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a61489ece9675c91a3345196e24d6dc3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a61489ece9675c91a3345196e24d6dc3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/99fffcdc1b44c4fdad207a6a8d1cc3e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/99fffcdc1b44c4fdad207a6a8d1cc3e5/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/000c24d7274c0dfd5f310bedb7050c34/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/edgarmonis/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/000c24d7274c0dfd5f310bedb7050c34/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/src/main/AndroidManifest.xml:37:27-74

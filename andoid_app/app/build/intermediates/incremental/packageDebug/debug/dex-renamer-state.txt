@@ -1,0 +1,4 @@
+#Sun Jan 06 01:22:27 IST 2019
+base.0=/Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/edgarmonis/Desktop/androidAppWithLabels/andoid_app/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

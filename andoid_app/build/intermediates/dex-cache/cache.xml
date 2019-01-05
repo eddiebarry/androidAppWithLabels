@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/11.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38965c2a6bfdbb3609475c5e1b5b3c8dd60aed4d">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/9.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="472f35d4c23f97947eed89b3dbda895295bd5fa1">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/10.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e1003ea75fde9decec8ac1475cf21f9b36b3b01a">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/15.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="60cb8f517af61d311435a93544599190a992cf79">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/8.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2e7b651430d1a8033e428c97e3ef6f9e031eb67">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/13.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9ed3e3649d3f0d041e491a198d53e2b56bf99b1e">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5d2bfbc221c304b56e64bb9a29c9e6802460b182">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="00c2f5c6f93888de053ec23e5f3466b956551b38">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="028c065875efc3d3924c8eb43899837c0fa32983">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/17.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9b96d421779dfbadb2891fe16fb008873cf36244">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3a1a4c35d3403b9ad9aa76a24152360cd82f39">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/14.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ea3ec4a43f312d21cc4f68d4be7830431b4fad41">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/12.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd310367617bcd984c3fe8d87dd68e55470c6ed1">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/7.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1db94aee58ecb36b74779f4da9e771de5baadc5f">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/16.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9b38fc1388b91e218b80d8fa57738e043f76a445">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6e507a11322002427bf8644498db0bcebcc44ab7">
+        <dex dex="/Users/edgarmonis/Desktop/retrain_mobile_nets/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+
+</items>
