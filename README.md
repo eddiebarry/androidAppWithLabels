@@ -58,12 +58,20 @@ chmod 700 convert.sh
 Open the "android_app" directory as an existing project in android studio.
 Build and run
 
-Screenshots : 
+### Screenshots : 
 
 ![SC1](https://github.com/eddiebarry/androidAppWithLabels/blob/master/screenshot_dent.jpeg)
 ![SC2](https://github.com/eddiebarry/androidAppWithLabels/blob/master/screenshot_no_damage.jpeg)
 ![SC3](https://github.com/eddiebarry/androidAppWithLabels/blob/master/screenshot_scratch.jpeg)
 ![SC4](https://github.com/eddiebarry/androidAppWithLabels/blob/master/screenshot_scratches_2.jpeg)
+
+
+### Credits : 
+
+Tutorials from ![TFLOW for poets 1](![SC1](https://github.com/eddiebarry/androidAppWithLabels/blob/master/screenshot_dent.jpeg))
+Tutorials from ![TFLOW for poets 2](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..index#0)
+
+
 
 
 
