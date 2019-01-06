@@ -31,8 +31,8 @@ Create sub-folders in the data directory that only contain images from that cate
 After the images have been placed, navigate to the "retrain" directory from the command line and
 Run the following code :-
 ```
-chmod 700 script.sh
-./script.sh
+chmod 700 retrain_on_data.sh
+./retrain_on_data.sh
 ```
 ###### Note :  To change the default android model change the arhitecture tag in the script.sh file. For more information refer to : [Tensorflow Tutorial](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..index#3)
 
